@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 15px;
+}
+
+.hide{
+    display: none;
+}
+
+a, input[type="submit"]{
+    background-color: #007BFF;
+    color: #FFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    opacity: .7;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+}
+
+a:hover, input[type="submit"]{
+    opacity: 1;
+}
+
+form{
+    width: 300px;
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+form label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+}
+
+form input, form textarea{
+    padding: 5px;
+}
