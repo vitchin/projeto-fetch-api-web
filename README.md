@@ -1,2 +1,3 @@
-# Projeto-fetch-api
-Este projeto é um estudo de como funciona a fetch API
+# Estudo fetch API
+
+### Este projeto parte de um início de estudo sobre o fetch API.
